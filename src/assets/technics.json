@@ -1,0 +1,15 @@
+[{
+    "belt": "yellow", "names": ["O-soto-otoshi", "O-uchi-gari", "O-goshi", "Mune-gatame", "Kuzure-kesa-gatame", "Ko-soto-gari", "Ko-uchi-gari", "Hiza-guruma", "Eri-seoi-nage", "Koshi-guruma", "Kami-shiho-gatame", "Tate-shiho-gatame"]
+},
+{
+    "belt": "orange", "names": ["De-ashi-barai", "Ko-soto-gake", "Ippon-seoi-nage", "Morote-seoi-nage", "Tsuri-komi-goshi", "Kubi-nage", "Ushiro-kesa-gatame", "Kuzure-yoko-shiho-gatame", "O-soto-gari", "Tsuri-goshi", "Tai-otoshi", "Uchi-mata", "Harai-goshi", "Yoko-shiho-gatame", "Kesa-gatame", "Gyaku-juji-jime", "Nami-juji-jime", "Kata-juji-jime", "Ude-gatame", "Juji-gatame"]
+},
+{
+    "belt": "green", "names": ["Okuri-ashi-harai", "Sasae-tsuri-komi-ashi", "Uki-goshi", "Sode-tsuri-komi-goshi", "Seoi-otoshi", "Kuzure-kami-shiho-gatame", "hadaka-jime", "Okuri-eri-jime", "Ude-gatame-1", "Ude-gatame-2", "Harai-tsuri-komi-ashi", "Tani-otoshi", "Yoko-sumi-gaeshi", "Tomoe-nage", "Yoko-tomoe-nage", "Kuzure-tate-shiho-gatame", "Kata-ha-jime", "Ryote-jime", "Kesa-garami", "Ude-hishigi-ashi-gatame"]
+},
+{
+    "belt": "blue", "names": ["O-guruma", "Ashi-guruma", "Sumi-gaeshi", "Uki-waza", "Yoko-otoshi", "Ushiro-goshi", "Soto-makikomi", "Makura-kesa-gatame", "Sankaku-gatame", "Kata-te-jime", "Sankaku-jime", "Hara-gatame", "Waki-gatame", "Uchi-mata", "Hane-goshi", "Tsubame-geashi", "Ura-nage", "Yoko-guruma", "Yoko-gake", "Kata-gatame", "Uki-gatame", "Sode-guruma-jime", "Tsukomi-jime", "Kannuki-gatame", "Hiza-gatame"]
+},
+{
+    "belt": "brown", "names": ["Utsuri-goshi", "O-soto-guruma", "Uki-otoshi", "Sumi-otoshi", "Yoko-wakare", "Kata-guruma"]
+}]
